@@ -1,0 +1,17 @@
+{
+  "name": "firebase-token",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000r\u0000e\u0000b\u0000a\u0000s\u0000e\u0000-\u0000t\u0000o\u0000k\u0000e\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "google-auth-library": "^9.14.1"
+  }
+}
